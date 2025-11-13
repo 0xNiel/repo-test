@@ -1,0 +1,9 @@
+# Tags for tenant1 - Git Source
+costCenter: CC-GIT-001
+department: engineering
+environment: production
+owner: git-test-team
+platform: crossplane
+managedBy: git-source
+project: tag-management
+gitSource: enabled
