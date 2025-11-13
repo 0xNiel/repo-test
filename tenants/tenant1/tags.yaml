@@ -1,7 +1,7 @@
 # Tags for tenant1 - Git Source
-costCenter: CC-GIT-001
-department: engineering
-environment: production
+costCenter: CC-GIT-002
+department: finance
+environment: pre-production
 owner: git-test-team
 platform: crossplane
 managedBy: git-source
